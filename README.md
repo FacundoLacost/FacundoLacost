@@ -49,5 +49,5 @@ Comandos | Descripción |
 ## Comandos Alias:
 Comando Alias | Descripción |
 ------------  | ----------- |
-**Alias rm**      |Para evitar eliminar permantent los archivos      |
+**Alias rm**      |Para evitar eliminar permanente los archivos      |
 **Alis Cl**  | para limpiar la pantalla de la terminal o consola|
